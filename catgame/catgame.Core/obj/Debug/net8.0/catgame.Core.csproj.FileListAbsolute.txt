@@ -1,0 +1,15 @@
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\bin\Debug\net8.0\catgame.Core.deps.json
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\bin\Debug\net8.0\catgame.Core.runtimeconfig.json
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\bin\Debug\net8.0\catgame.Core.dll
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\bin\Debug\net8.0\catgame.Core.pdb
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.csproj.AssemblyReference.cache
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.AssemblyInfoInputs.cache
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.AssemblyInfo.cs
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.csproj.CoreCompileInputs.cache
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.sourcelink.json
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.dll
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\refint\catgame.Core.dll
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.pdb
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\catgame.Core.genruntimeconfig.cache
+C:\Users\tanno\Documents\GitHub\catgame\catgame\catgame.Core\obj\Debug\net8.0\ref\catgame.Core.dll

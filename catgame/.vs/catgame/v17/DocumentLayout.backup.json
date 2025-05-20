@@ -78,8 +78,7 @@
               "RelativeToolTip": "catgame\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T11:03:23.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T11:03:23.638Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "catgame\\Controllers\\CatsController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA2wBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:57:18.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:57:18.318Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "catgame.Core\\ServiceInterface\\ICatsServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:52:14.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:52:14.399Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "catgame.Core\\Dto\\CatDto.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA9wCMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:50:52.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:50:52.23Z"
             },
             {
               "$type": "Document",
@@ -130,8 +126,7 @@
               "RelativeToolTip": "catgame.ApplicationServices\\Services\\CatsServices.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAjwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:30:32.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:30:32.678Z"
             },
             {
               "$type": "Document",
@@ -143,8 +138,7 @@
               "RelativeToolTip": "catgame\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T10:20:39.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:20:39.132Z"
             },
             {
               "$type": "Document",
@@ -156,8 +150,7 @@
               "RelativeToolTip": "catgame.Data\\catgameContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:12:40.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:12:40.396Z"
             },
             {
               "$type": "Document",
@@ -167,7 +160,7 @@
               "RelativeDocumentMoniker": "catgame\\Program.cs",
               "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Program.cs",
               "RelativeToolTip": "catgame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T10:23:02.648Z",
               "EditorCaption": ""
@@ -182,8 +175,7 @@
               "RelativeToolTip": "catgame\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T10:20:00.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:20:00.72Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "catgame\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-20T10:20:59.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:20:59.484Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "catgame\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:16:22.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:16:22.689Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "catgame\\Views\\Cats\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T10:22:16.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:22:16.747Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "catgame\\Models\\Cats\\CatIndexViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:17:14.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:17:14.262Z"
             },
             {
               "$type": "Document",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "catgame.Core\\Domain\\Cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwCMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T10:13:50.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T10:13:50.262Z"
             }
           ]
         }
