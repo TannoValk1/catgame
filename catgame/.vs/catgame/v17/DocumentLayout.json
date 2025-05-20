@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A08F767-5AD2-4845-A8A9-2B3D62B0EFE6}|catgame.Data\\catgame.Data.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame.data\\catgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A08F767-5AD2-4845-A8A9-2B3D62B0EFE6}|catgame.Data\\catgame.Data.csproj|solutionrelative:catgame.data\\catgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\views\\cats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\views\\cats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\models\\cats\\catindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\models\\cats\\catindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{543A0E23-46F6-4858-981A-E6508B57A703}|catgame\\catgame.csproj|solutionrelative:catgame\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E216EF24-0707-490E-8484-F7EDB767DCD8}|catgame.Core\\catgame.Core.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame.core\\domain\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E216EF24-0707-490E-8484-F7EDB767DCD8}|catgame.Core\\catgame.Core.csproj|solutionrelative:catgame.core\\domain\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42622318-CBCF-4DCD-9785-13AC765C5C87}|catgame.ApplicationServices\\catgame.ApplicationServices.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame.applicationservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42622318-CBCF-4DCD-9785-13AC765C5C87}|catgame.ApplicationServices\\catgame.ApplicationServices.csproj|solutionrelative:catgame.applicationservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A08F767-5AD2-4845-A8A9-2B3D62B0EFE6}|catgame.Data\\catgame.Data.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A08F767-5AD2-4845-A8A9-2B3D62B0EFE6}|catgame.Data\\catgame.Data.csproj|solutionrelative:catgame.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E216EF24-0707-490E-8484-F7EDB767DCD8}|catgame.Core\\catgame.Core.csproj|c:\\users\\tanno\\documents\\github\\catgame\\catgame\\catgame.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E216EF24-0707-490E-8484-F7EDB767DCD8}|catgame.Core\\catgame.Core.csproj|solutionrelative:catgame.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Program.cs",
+              "RelativeDocumentMoniker": "catgame\\Program.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Program.cs",
+              "RelativeToolTip": "catgame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:23:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Cats\\Index.cshtml",
+              "RelativeDocumentMoniker": "catgame\\Views\\Cats\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Cats\\Index.cshtml",
+              "RelativeToolTip": "catgame\\Views\\Cats\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T10:22:16.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "catgame\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "catgame\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-20T10:20:59.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "catgame\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "catgame\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T10:20:39.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "catgame\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "catgame\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T10:20:00.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "catgame\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Properties\\launchSettings.json",
+              "RelativeToolTip": "catgame\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T10:19:32.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Models\\Cats\\CatIndexViewModel.cs",
+              "RelativeDocumentMoniker": "catgame\\Models\\Cats\\CatIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Models\\Cats\\CatIndexViewModel.cs",
+              "RelativeToolTip": "catgame\\Models\\Cats\\CatIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:17:14.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "catgame\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "catgame\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:16:22.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Core\\Domain\\Cat.cs",
+              "RelativeDocumentMoniker": "catgame.Core\\Domain\\Cat.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Core\\Domain\\Cat.cs",
+              "RelativeToolTip": "catgame.Core\\Domain\\Cat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:13:50.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "catgameContext.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Data\\catgameContext.cs",
+              "RelativeDocumentMoniker": "catgame.Data\\catgameContext.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Data\\catgameContext.cs",
+              "RelativeToolTip": "catgame.Data\\catgameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:12:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.ApplicationServices\\Class1.cs",
+              "RelativeDocumentMoniker": "catgame.ApplicationServices\\Class1.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.ApplicationServices\\Class1.cs",
+              "RelativeToolTip": "catgame.ApplicationServices\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:56:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "catgame.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Data\\Class1.cs",
+              "RelativeToolTip": "catgame.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:55:48.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "catgame.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\tanno\\Documents\\GitHub\\catgame\\catgame\\catgame.Core\\Class1.cs",
+              "RelativeToolTip": "catgame.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:55:28.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
